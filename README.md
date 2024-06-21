@@ -1,10 +1,7 @@
 # Hi, I'm <Denis>! 👋
 
-![<Lost1ck>'s Stats](https://github-readme-stats.vercel.app/api?Lost1ck=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
-
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,html,css,sass,webpack,vite,bootstrap,babel,figma,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,html,css,sass,webpack,vite,bootstrap,babel,git,vscode)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -16,6 +13,12 @@
   - Navigating through the world of React Router for seamless page transitions.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
   - Diving into PostgreSQL for efficient and scalable database management.
+ 
+<p align="center">
+  <a href="https://github.com/Lost1ck">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Lost1ck&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
+</p>
 
 
 ## 📬 Get in Touch
