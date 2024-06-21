@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Lost1ck">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Lost1ck&theme=light&hide_border=true&stroke=f53b3b"/>
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Lost1ck&theme=auto&hide_border=true&stroke=f53b3b"/>
 </a> 
 </p>
 
