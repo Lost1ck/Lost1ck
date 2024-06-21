@@ -20,7 +20,7 @@
 
 ## 📬 Get in Touch
 
-- 📫 How to contact me: <a href="https://t.me/Lost1ne">@Lost1ne (telegram)</a>
+- Contact me: <a href="https://t.me/Lost1ne">@Lost1ne (telegram)</a>
 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
