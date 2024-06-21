@@ -4,7 +4,7 @@
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,html,css,sasswebpack,vite,bootstrap,babel,figma,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,html,css,sass,webpack,vite,bootstrap,babel,figma,vscode)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
