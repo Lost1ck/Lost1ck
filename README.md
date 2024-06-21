@@ -1,4 +1,4 @@
-# Hi, I'm Denis! 👋
+<h3 align="center">Hey there, I'm <a href="https://github.com/Lost1ck">Lost1ck</a></h3>
 
 <p align="center">
   <a href="https://github.com/Lost1ck">      
