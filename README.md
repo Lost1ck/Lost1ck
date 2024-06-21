@@ -1,5 +1,12 @@
 # Hi, I'm Denis! 👋
 
+<p align="center">
+  <a href="https://github.com/Lost1ck">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Lost1ck&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
+</p>
+
+
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,html,css,sass,webpack,vite,bootstrap,babel,git,vscode)](https://skillicons.dev)
 
@@ -13,13 +20,6 @@
   - Navigating through the world of React Router for seamless page transitions.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
   - Diving into PostgreSQL for efficient and scalable database management.
- 
-<p align="center">
-  <a href="https://github.com/Lost1ck">      
-<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Lost1ck&theme=dark&hide_border=true&stroke=f53b3b"/>
-</a> 
-</p>
-
 
 ## 📬 Get in Touch
 
