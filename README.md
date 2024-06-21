@@ -8,7 +8,7 @@
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,html,css,sass,webpack,vite,)]
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,html,css,sass,webpack,vite,)
 
 ## 🌱 Currently Exploring
 
