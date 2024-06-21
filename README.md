@@ -1,4 +1,4 @@
-# Hi, I'm <Denis>! 👋
+# Hi, I'm Denis! 👋
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,html,css,sass,webpack,vite,bootstrap,babel,git,vscode)](https://skillicons.dev)
